@@ -101,7 +101,7 @@ main{
 
 section{
     height: 82vh;
-    width: 65vw;
+    width: 70vw;
     background-color: #ffff;
     display: flex;
     justify-content: center;
