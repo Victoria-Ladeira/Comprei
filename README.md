@@ -1,5 +1,26 @@
-# Vue 3 + Vite
+# Pagina de compra simples <img src= "https://th.bing.com/th/id/OIP.SlTZ-QWg9YMmEs4w3T7LmAHaHa?rs=1&pid=ImgDetMain" width="40"/>
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+### Destaque para o CONTADOR
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+O objetivo desse trabalho foi desenvolver um projeto em vue para treinar a lógica do contador.
+
+## Tecnologias utilizadas:
+- JS como linguagem de programação
+- Vue como Framework
+- SCSS para estilização
+
+### O que você encontrará neste projeto:
+- **Estrutura semântica**
+- **Organização de código**
+- Uso de **lógica de programação** no contador
+
+  
+**Confira o link**: https://comprei.vercel.app/
+
+---
+
+ E aí vai uma bicicleta? rs 😄
+
+ ![Captura de tela 2025-02-06 192014](https://github.com/user-attachments/assets/89f0c5fc-7be2-4ea7-b100-ef1048d4837e)
+
+
